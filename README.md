@@ -1,11 +1,7 @@
-# fresh project
+# Fresh JS Project
 
-### Usage
+This is a simple repository to test out the recently released web framework `Fresh`. This framework is similar in functionality to frameworks such as `Astro` but runs on the Deno runtime.
 
-Start the project:
+# Deployment
 
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+For this project I decided to use Deno's OOTB deployment stratergy [Deno Deploy](https://deno.com/deploy)
