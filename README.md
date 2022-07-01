@@ -4,4 +4,4 @@ This is a simple repository to test out the recently released web framework `Fre
 
 # Deployment
 
-For this project I decided to use Deno's OOTB deployment stratergy [Deno Deploy](https://deno.com/deploy)
+For this project I decided to use Deno's OOTB deployment strategy [Deno Deploy](https://deno.com/deploy)
