@@ -1,6 +1,6 @@
 # Fresh JS Project
 
-This is a simple repository to test out the recently released web framework `Fresh`. This framework is similar in functionality to frameworks such as `Astro` but runs on the Deno runtime.
+This is a simple repository to test out the recently released web framework `Fresh`. This framework is similar in functionality to frameworks such as [Astro](https://astro.build/) but runs on the Deno runtime.
 
 # Deployment
 
